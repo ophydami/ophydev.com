@@ -14,10 +14,10 @@ theme = "hugo-minimalist-theme"
     site_description = "The awesome blog of John Doe."
     location = "Earth"
     # Link custom assets relative to /static
-    avatar = "img/profile-image.png"
-    header_background = "img/desk.jpg"
+    avatar = "img/images.jpg"
+    header_background = "img/cup.jpg"
     header_title = "Gboyega OPHY"
-    copyright = "Powered by [Hugo](http://gohugo.io)."
+    copyright = "Powered by [Hsugo](http://gohugo.io)."
     custom_css = []
     custom_js  = []
 
